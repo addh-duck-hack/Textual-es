@@ -16,7 +16,7 @@ A list of technologies used within the project:
 * [jQuery](https://jquery.com/): Version 3.7.1
 ## Installation
 ***
-Copiar y pegar los archivos en la raiz de tu servidor con Wordpress previamente instalado:
+Copiar y pegar los archivos en la raiz de tu servidor con Wordpress previamente instalado.
 
 ```
 $ git clone https://github.com/addh-duck-hack/Textual-es-Web.git
